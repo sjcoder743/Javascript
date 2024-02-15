@@ -1,0 +1,20 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+#id{
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+}
+ul{
+    background-color: brown;
+    border: 2px solid black;
+}
+
+li{
+    background-color: yellow;
+    cursor: pointer;
+}
